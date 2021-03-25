@@ -1,0 +1,33 @@
+using System;
+
+namespace Programa1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String nombre;
+            int edad;
+            const double pi = 3.1416;
+            float a,b;
+            float division;
+
+            Console.WriteLine("¿Cual es su nombre?\n");
+            nombre = Console.ReadLine();
+            Console.ReadLine();
+            Console.WriteLine("¿Cual es su edad?\n");
+            edad = int.Parse(Console.ReadLine());
+            Console.ReadLine();
+            Console.WriteLine("Valor de pi: " + pi);
+            Console.WriteLine("Division de números\n");
+            Console.WriteLine("Ingrese un número a dividir: \n");
+            a = float.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese un segundo número: \n");
+            b = float.Parse(Console.ReadLine());
+            division = a / b;
+            Console.WriteLine("El resultado de la division es: \n" + division);
+
+
+        }
+    }
+}
