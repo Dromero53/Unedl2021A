@@ -1,0 +1,66 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Calculadora1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            lblResultadoOperacion.Text = "0";
+            txtValor1.Text = "0";
+            txtValor2.Text = "0";
+        }
+
+        private void btnSuma_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt16(txtValor1.Text);
+            int b = Convert.ToInt16(txtValor2.Text);
+            int c = a + b;
+            lblResultadoOperacion.Text = c.ToString();
+        }
+
+        private void btnResta_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt16(txtValor1.Text);
+            int b = Convert.ToInt16(txtValor2.Text);
+            int c = a - b;
+            lblResultadoOperacion.Text = c.ToString();
+        }
+
+        private void btnMultiplicacion_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt16(txtValor1.Text);
+            int b = Convert.ToInt16(txtValor2.Text);
+            int c = a * b;
+            lblResultadoOperacion.Text = c.ToString();
+        }
+
+        private void btnDivision_Click(object sender, EventArgs e)
+        {
+            float a = Convert.ToInt16(txtValor1.Text);
+            float b = Convert.ToInt16(txtValor2.Text);
+            float c = a / b;
+            lblResultadoOperacion.Text = c.ToString();
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            lblResultadoOperacion.Text = "0";
+            txtValor1.Text = "0";
+            txtValor2.Text = "0";
+        }
+    }
+}
