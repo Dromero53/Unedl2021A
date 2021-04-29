@@ -1,0 +1,10 @@
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ParcialUno.csprojAssemblyReference.cache
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormaCaptura.resources
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ParcialUno.csproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ParcialUno.csproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\juand\OneDrive\Escritorio\danunora-unedl2021a-fcb5d2138e7c\PrimerParcial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
