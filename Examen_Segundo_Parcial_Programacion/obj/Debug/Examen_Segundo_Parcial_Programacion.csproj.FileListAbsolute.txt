@@ -1,0 +1,10 @@
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\bin\Debug\Examen_Segundo_Parcial_Programacion.exe.config
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\bin\Debug\Examen_Segundo_Parcial_Programacion.exe
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\bin\Debug\Examen_Segundo_Parcial_Programacion.pdb
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.csprojAssemblyReference.cache
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.Form1.resources
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.Properties.Resources.resources
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.csproj.GenerateResource.cache
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.csproj.CoreCompileInputs.cache
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.exe
+C:\Users\juand\source\repos\Examen_Segundo_Parcial_Programacion\obj\Debug\Examen_Segundo_Parcial_Programacion.pdb

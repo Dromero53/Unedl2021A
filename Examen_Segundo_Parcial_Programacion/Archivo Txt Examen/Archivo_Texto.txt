@@ -1,0 +1,55 @@
+#######################
+# Archivo de Parámetros
+#######################
+
+#-------------------------
+# Localidad del inventario
+# Mandatorio
+#-------------------------
+LOCALIDADINVENTARIO=/var/tmp
+
+#-------------------------
+# Opciones de instalación
+# Mandatorio
+# Si el parámetro está vacío, se utiliza el valor por defecto señalado.
+# Valores Permitidos:
+# FULL, instalación total (por defecto)
+# PART, instalación parcial
+# MIN, instalacion mínima
+#-------------------------
+install.option=
+
+#-------------------------
+# Localidad base
+# Mandatorio
+#-------------------------
+LOCALIDADBASE=/opt/base
+
+#-------------------------
+# Puerto de comunicación
+# Opcional
+#-------------------------
+install.port=8080
+
+#-------------------------
+# Dirección IP
+# Opcional
+#-------------------------
+install.address=34.83.79.239
+
+#-------------------------
+# Password de instalación
+# Mandatorio
+#-------------------------
+install.password="Cl0ud4Me#_5"
+
+#-------------------------
+# Sistema de redundancia
+# Mandatorio
+# Si el parámetro está vacío, se utiliza el valor por defecto señalado.
+# Valores permitidos:
+# NORMAL, redundancia normal
+# HIGH, alta redundancia
+# LOW, baja redundancia
+#-------------------------
+install.redundancia=
